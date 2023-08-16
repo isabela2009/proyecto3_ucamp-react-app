@@ -9,14 +9,14 @@ import CalendarInput from './components/inputs/DateTimePickerInput/CalendarInput
 
 function App() {
 
-  var nombre = 'Juan';
+  var nombre = 'Isabella';
 
   const persona = {
-    nombre: 'Juan',
-    apellido: 'Perez',
-    edad: 35,
+    nombre: 'Isabella',
+    apellido: 'Rodriguez',
+    edad: 14,
     direccion: {
-      ciudad: 'Bogota',
+      ciudad: 'Cali',
       zip: 111111,
     },
     licenciaturas: ['Sistemas', 'Aeronautica', 'Matematicas']
